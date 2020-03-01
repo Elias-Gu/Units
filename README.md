@@ -11,3 +11,6 @@ Units is a simple unit converter mobile application that is designed to perform 
   <img src="https://github.com/Elias-Gu/Units/blob/master/presentation/currency.gif" height="500" /> 
   <img src="https://github.com/Elias-Gu/Units/blob/master/presentation/temperature.gif" height="500" />
 </p>
+
+
+Icons made by Pixel perfect from www.flaticon.com
